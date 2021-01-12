@@ -10,9 +10,9 @@ import javax.inject.Singleton;
 
 @OpenAPIDefinition(
         info = @Info(
-                title = "demo",
-                version = "0.0",
-                description = "Testing Swagger"
+                title = "Products",
+                version = "1.0",
+                description = "Testing Micronaut and OpenAPI"
         )
 )
 @Singleton
